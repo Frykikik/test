@@ -1,0 +1,17 @@
+npx create-react-app my-react-app
+
+npm i react@latest react-dom@latest
+
+npm i sass
+
+
+cd my-test-app
+
+npm start
+
+npm run build
+
+npx serve
+
+
+serve -s build

@@ -1,0 +1,8 @@
+cd my-test-app
+
+npm start
+
+
+http://localhost:3000/
+
+https://my-json-server.typicode.com/Frykikik/my-test-app
